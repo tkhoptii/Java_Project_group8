@@ -4,9 +4,9 @@ public class Week6_RemoveDuplicates_TK {
 
     public static void main(String[] args) {
         String original = "AAABBBCCC";
-        String result = removeDuplicates(original);
         System.out.println("original = " + original);
-        System.out.println("output = " + result);
+        System.out.println("removeDuplicates(original) = " + removeDuplicates(original));
+
     }
 
 
