@@ -1,6 +1,6 @@
 package tanya;
 
-public class FindTheUnique_TK {
+public class Week7_FindTheUnique_TK {
 
     public static void main(String[] args) {
         String original = "AAABBBCCCDEF";
